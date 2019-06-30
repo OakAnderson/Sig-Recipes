@@ -1,0 +1,23 @@
+;rosca caseira
+*ingredientes
+¬ 1 lata de leite condensado
+¬ 1 lata de água morna (medir na lata de leite condensado)
+¬ 1/2 lata de óleo (medir na lata de leite condensado)
+¬ 4 ovos
+¬ 2 colheres de sopa de açúcar
+¬ 2 tabletes de fermento fresco
+¬ 1 pitada de sal
+¬ 1 kg de farinha de trigo
+;calda(ingredientes)
+¬ 1 xícara chá de açúcar
+¬ 1 xícara chá de água
+*modo de preparo
+1 - No liquidificador adicione o leite condensado, água, o óleo, os ovos, o açúcar, o fermento e o sal, bata bem até misturar.
+2 - Despeje a mistura em um tigela grande ou em uma bacia plástica, adicione a farinha aos poucos sovando a massa com a mão, sove bem até incorporar toda a farinha.
+3 - A massa fica grudando um pouco, deixe a massa descansar tampada até dobrar de volume, em local sem ventilação, não de arranque na vasilha pois pode murchar a massa.
+4 - Depois de dobrar o volume enrole as roscas, enfarinhe uma mesa.
+5 - Com o auxilio de uma faca corte porções de massa e enrole igual a um bastão, depois enrole no formato de um caracol.
+6 - Coloque a rosca em fôrma untada, deixe a rosca crescer novamente até dobrar o volume.
+7 - Assar em forno médio até dourar, assim que tirar do forno passe a calda ainda quente e espere esfriar para servir.
+;calda(modo de fazer)
+1 - Em uma panela adicione 1 xícara chá de açúcar e 1 xícara chá de água, misture bem e leve ao fogo até formar uma calda mais consistente, em seguida pincele sobre a rosca já assada.

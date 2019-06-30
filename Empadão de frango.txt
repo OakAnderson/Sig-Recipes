@@ -1,0 +1,36 @@
+;Empadão de frango
+*ingredientes
+¬ 1/2 kg de farinha de trigo
+¬ 200 g de margarina
+¬ 150 g de gordura vegetal
+¬ 2 gemas
+¬ 1 xícara (café) de água
+¬ sal à gosto
+¬ 1 gema para pincelar
+/recheio(ingredientes)
+¬ 2 peitos de frango já cozidos e desfiados
+¬ 1 cebola picada
+¬ 2 dentes de alho amassados
+¬ 1 tomate sem pele e sem semente, em cubos
+¬ salsa e cebolinha picadas
+¬ 1 colher (sopa) de farinha de trigo dissolvida em um pouquinho de leite
+¬ sal e pimenta a gosto
+¬ requeijão culinário em lascas
+*modo de preparo
+1 - Misture a farinha com as gorduras (margarina e gordura vegetal) e faça uma farofa com as mãos.
+2 - Acrescente as gemas e a água, misturando mais, sem trabalhar muito a massa.
+3 - Ela não fica homogênea, fica quebradiça (isso faz com que fique crocante).
+4 - Deixe descansar por meia hora.
+/recheio(modo de preparo)
+1 - Refogue em um pouco de manteiga, o alho e a cebola.
+2 - Depois acrescente o frango desfiado e o tomate em cubos, refogue mais um pouco.
+3 - Acrescente a farinha dissolvida no leite (1/2 xícara de chá) e mexa até ficar tudo ligado.
+4 - Junte a salsa e cebolinha, sal e pimenta.
+5 - Reserve e deixe esfriar.
+*montagem
+1 - Abra metade da massa em uma forma (de preferência com fundo removível), nos fundos e nas laterais com as mãos, abrindo o máximo que puder.
+2 - Recheie a massa e distribua, por cima do recheio, lascas do requeijão.
+3 - Abra a outra metade da massa, com um rolo, sobre um pedaço de filme plástico.
+4 - Disponha a massa por cima do recheio, fechando o empadão nas laterais.
+5 - Pincele a massa, por cima, com uma gema e leve ao forno preaquecido (200° C), até dourar bem.
+6 - Desenforme ou sirva na própria forma, imediatamente (fica parecendo uma massa folhada, crocante).
